@@ -76,6 +76,8 @@
             <option value="Mega Bekasi XIX">Mega Bekasi XIX</option>
             <option value="Revo Town XIX">Revo Town XIX</option>
             <option value="Summarecon Mall Bekasi XIX">Summarecon Mall Bekasi XIX</option>
+            <option value="Koja Trade Mall">Koja Trade Mall</option>
+            <option value="Asia Plaza Sumedang">Asia Plaza Sumedang</option>
         </select>
 
         <!--Tanggal-->
