@@ -78,6 +78,7 @@
             <option value="Mega Bekasi XIX">Mega Bekasi XIX</option>
             <option value="Revo Town XIX">Revo Town XIX</option>
             <option value="Summarecon Mall Bekasi XIX">Summarecon Mall Bekasi XIX</option>
+            <option value="CGV Cinemas BTC Mall">CGV Cinemas BTC Mall</option>
 
         </select>
 
